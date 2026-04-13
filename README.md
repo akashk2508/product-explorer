@@ -71,7 +71,7 @@ https://productexplorerapi.netlify.app/
 
 ## 📸 Screenshots
 
-( Add screenshots of your project here )
+![Screenshot](./src/assets/screenshot.png)
 
 
 
