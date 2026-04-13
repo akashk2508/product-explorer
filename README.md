@@ -41,7 +41,7 @@ src/
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/product-explorer.git
+git clone (https://github.com/akashk2508/product-explorer)
 ```
 
 2. Navigate to project folder
