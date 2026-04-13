@@ -71,7 +71,9 @@ https://productexplorerapi.netlify.app/
 
 ## 📸 Screenshots
 
-![Screenshot](./src/assets/screenshot.png)
+<img width="1820" height="850" alt="Screenshot App" src="https://github.com/user-attachments/assets/76e4e925-3ade-428d-b4f6-da0a7b5df420" />
+
+
 
 
 
