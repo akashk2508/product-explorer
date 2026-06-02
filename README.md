@@ -95,21 +95,6 @@ https://productexplorerapi.netlify.app/
 * Improve UI with animations
 
 
-
-## 🎥 Demo Video
-
-
-
-https://github.com/user-attachments/assets/812890a5-1904-4c55-9510-613c3a158569
-
-
-
-
-
-
-
-
-
 ## 👨‍💻 Author
 
 Akash Kumar
